@@ -15,10 +15,5 @@ This simple program demonstrates basic user input, conditional statements, and a
 6. Kulfi - Rs 40.00  
 7. Butter-Scotch - Rs 80.00  
 
-# Getting Started :
-- Clone the repository.  
-- Run Project.c in your C environment.  
-- Follow on-screen prompts to interact with the Ice_Cream_Parlour_Program.  
-
 # Contribution :
 We welcome contributions! If you discover any bugs or have suggestions for improvements, please open an issue or submit a pull request.
