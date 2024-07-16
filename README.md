@@ -1,11 +1,11 @@
 # Simple-Ice_Cream_Parlour_Program-in-C
 # Author : [Maz Khan](https://github.com/Mazkhan99)
 
-# Summary:
+# Summary :
  A basic C program to simulate ordering ice cream and calculating the total bill in this program The user is welcomed and presented with a menu of ice cream flavors and The user selects a flavor and specifies the number of scoops and then The program calculates the total cost and displays it along with a thank you message.
 This simple program demonstrates basic user input, conditional statements, and arithmetic operations in C.
 
-## Flavors and Prices
+## Flavors and Prices :
 
 1. Vanilla - Rs 35.00  
 2. Chocolate - Rs 50.00  
